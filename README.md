@@ -96,7 +96,7 @@ Users can:
 ---
 
 ### 🤖 AI Recipe Screen
-
+<img src="images/ai-1.jpg" width="250"/>
 <img src="images/ai.jpg" width="250"/>
 
 ---
